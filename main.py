@@ -25,10 +25,9 @@ def gethost():
     return host
 
 selfName = gethost()
-# to_host
-serverName = '192.168.121.130'
-# to_vm
-#serverName = '192.168.43.113'
+
+serverName = '127.0.0.1' #请修改为您想要通信的ip
+
 
 serverPort = 50000
 clientSocket = socket(AF_INET, SOCK_DGRAM)
