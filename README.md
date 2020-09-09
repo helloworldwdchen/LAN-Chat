@@ -4,7 +4,5 @@
 
 - 使用
 
-    请将serverName修改为您要通信的ip
-
     `python chat.py`
 
