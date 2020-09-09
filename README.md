@@ -6,16 +6,5 @@
 
     请将serverName修改为您要通信的ip
 
-    `python main.py`
-
-- 功能
-
-- [x] 基础的一对一ascii聊天信息发送
-- [x] 在线状态检测
-
-- [ ] 局域网在线ip扫描
-
-- [ ] utf-8
-
-- [ ] 文件发送
+    `python chat.py`
 
